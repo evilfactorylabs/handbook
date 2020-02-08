@@ -2,7 +2,7 @@
   "name": "@evilfactorylabs/handbook",
   "private": true,
   "description": "evilfactorylabs Handbook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.7.4",
     "@emotion/core": "^10.0.22",
