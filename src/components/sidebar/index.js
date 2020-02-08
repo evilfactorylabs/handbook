@@ -89,6 +89,7 @@ const Sidebar = styled('aside')`
     background-color: #372476;
     background: #372476;
     height: auto;
+    margin-top: 0;
   }
 `
 
