@@ -1,5 +1,7 @@
 # handbook
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f7a280a8-419c-4f9d-9419-d8fc0c706208/deploy-status)](https://app.netlify.com/sites/evilfactorylabs-handbook/deploys)
+
 evilfactorylabs Handbook, yes.
 
 > This website is based on `gatsby-gitbook-starter` with some customization, if you want to learn more on the technical side, go to [here please](https://github.com/hasura/gatsby-gitbook-starter).
