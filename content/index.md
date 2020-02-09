@@ -42,4 +42,5 @@ Untuk kode, berlisensi MIT. Dan untuk konten, dibawah lisensi Creative Commons A
 
 ## Changelog
 
+- 09 Feb 2020, [v1.1.0](https://github.com/evilfactorylabs/handbook/releases/tag/1.1.0) - Add evilfactorylabs folks
 - 08 Feb 2020, [v1.0.0](https://github.com/evilfactorylabs/handbook/releases/tag/1.0.0) — Initial release
