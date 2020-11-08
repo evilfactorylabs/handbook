@@ -13,7 +13,7 @@ to make onboarding easier. So here we go.
 
 ## Maintainer
 
-The Dictator, [yours truly](https://twitter.com/faultable).
+The Dictator, [yours truly](mailto:fariz@evilfactory.id).
 
 ## Contributing
 
