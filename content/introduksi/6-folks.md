@@ -8,7 +8,7 @@ Hell yeah, say hello to us!
 
 - Rin A, [Twitter](https://twitter.com/ri7nz) - [GitHub](https://github.com/ri7nz) - [Website](https://rin.rocks)
 - Kevin, [Twitter](https://twitter.com/kevanantha) - [GitHub](https://github.com/kevanantha) - [Website](https://kevanantha.xyz)
-- Fariz, [Twitter](https://twitter.com/faultable) - [GitHub](https://github.com/faultable) - [Website](https://faultable.dev)
+- Fariz, [Twitter](mailto:fariz@evilfactory.id) - [GitHub](https://github.com/faultable) - [Website](https://faultable.dev)
 - Afrijal, [Twitter](https://twitter.com/afrijaldz) - [GitHub](https://github.com/afrijaldz) - [Website](https://afrijaldzuhri.com)
 - Andre, [Twitter](https://twitter.com/drepram) - [GitHub](https://github.com/drepram) - [Website](https://drepram.com)
 - Randy, [Twitter](https://twitter.com/aweutist) - [GitHub](https://github.com/randyviandaputra) - [Website](https://randy.js.org)
