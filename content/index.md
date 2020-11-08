@@ -38,7 +38,7 @@ Untuk kode, berlisensi MIT. Dan untuk konten, dibawah lisensi Creative Commons A
 
 ## Maintainers
 
-[The dictator](https://twitter.com/faultable).
+[The dictator](mailto:fariz@evilfactory.id).
 
 ## Changelog
 
